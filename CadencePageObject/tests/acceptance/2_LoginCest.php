@@ -8,7 +8,7 @@ class LoginCest
             $loginPage->login('fazen7@mail.ru', '1234567');
             $I->amOnPage('/customer/account/index/');
             $I->see('Hello, alex sereda!', 'p.hello > strong');
-           // $loginPage->logout();
+            $loginPage->logout();
         }
 
         function loginEmptyFields(AcceptanceTester $I, \Page\Login $loginPage) {

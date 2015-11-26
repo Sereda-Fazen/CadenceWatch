@@ -10,7 +10,7 @@ class MyAccountCest
     }
 
     function MyAccountInfo(AcceptanceTester $I, \Page\MyAccount $myAccountPage) {
-            $myAccountPage->accountInfo('alex', 'sereda', 'fazen7@mail.ru', '123456', '1234567', '1234567');
+            $myAccountPage->accountInfo('alex', 'sereda', 'fazen7@mail.ru', '1234567', '1234567', '1234567');
             $I->see('The account information has been saved.', 'li.success-msg');
             $myAccountPage->accountInfo('alex', 'sereda', 'fazen7@mail.ru', '123456', '1234567', '1234567');
             $I->see('The account information has been saved.', 'li.success-msg');

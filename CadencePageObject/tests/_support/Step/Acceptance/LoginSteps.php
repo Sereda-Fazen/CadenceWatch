@@ -55,6 +55,19 @@ class LoginSteps extends \AcceptanceTester
             $I->click('div.footer > ul > li:nth-of-type('.$i.') > a');
         }
     }
+    public function getZoom(){
+        $I = $this;
+        $rows = count($I->grabMultiple('//div/div[3]/ul'));
+        for ($r = 1; $r <= $rows; $r++) {
+            $cels = count($I->grabMultiple('//div/div[3]/ul[' . $r . ']/li'));
+            for ($c = 1; $c <= $cels; $c++) {
+                $I->moveMouseOver('//div/div[3]/ul[' . $r . ']/li[' . $c . ']', 70, 150);
+                $I->moveMouseOver('//div/div[3]/ul[' . $r . ']/li[' . $c . ']', 150, 30);
+                $I->moveMouseOver('//div/div[3]/ul[' . $r . ']/li[' . $c . ']', 30, 70);
+
+            }
+        }
+    }
 
 
 
