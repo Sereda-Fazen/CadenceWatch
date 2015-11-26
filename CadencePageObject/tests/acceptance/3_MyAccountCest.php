@@ -10,12 +10,21 @@ class MyAccountCest
     }
 
     function MyAccountInfo(AcceptanceTester $I, \Page\MyAccount $myAccountPage) {
+
             $myAccountPage->accountInfo('alex', 'sereda', 'fazen7@mail.ru', '1234567', '1234567', '1234567');
-            $I->see('The account information has been saved.', 'li.success-msg');
-            $myAccountPage->accountInfo('alex', 'sereda', 'fazen7@mail.ru', '123456', '1234567', '1234567');
             $I->see('The account information has been saved.', 'li.success-msg');
 
     }
+    function MyAccountInfoInvalid(AcceptanceTester $I, \Page\MyAccount $myAccountPage)
+    {
+
+        $myAccountPage->accountInfo('', '', '', '', '', '');
+        $I->see('This is a required field.', '#advice-required-entry-email');
+        $I->comment('Expected result: These are required fields');
+
+    }
+
+
 
     function MyAccountAddress(AcceptanceTester $I, \Page\MyAccount $MyAccountPage) {
         $MyAccountPage->accountAddress('alex', 'sereda', '+39063636369', 'Dostoevskogo22v', 'Kharkov', '54423', 'Kharkov');
