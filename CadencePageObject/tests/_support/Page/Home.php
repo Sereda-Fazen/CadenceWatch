@@ -67,14 +67,14 @@ class Home
         $I = $this->tester;
 
         $I->amOnPage(self::$URL);
-        /*
+
         $I->click(self::$logo);
         $I->click(self::$myAcc);
         $I->click(self::$myCheck);
         $I->click(self::$myCart);
         $I->click(self::$checkout);
         $I->click(self::$logIn);
-*/
+
     }
     public function homePageSearch($search1) {
         $I = $this->tester;

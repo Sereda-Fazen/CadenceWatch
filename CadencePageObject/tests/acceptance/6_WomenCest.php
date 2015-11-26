@@ -1,7 +1,7 @@
 <?php
-use \AcceptanceTester;
+use Step\Acceptance;
 
-class MenCest
+class WomenCest
 {
 
         function womenPage(Step\Acceptance\LoginSteps $I, \Page\Women $womenPage) {

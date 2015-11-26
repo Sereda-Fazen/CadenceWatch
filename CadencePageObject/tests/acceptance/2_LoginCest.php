@@ -1,9 +1,7 @@
 <?php
-use \AcceptanceTester;
 
 class LoginCest
 {
-
         function loginSuccess(AcceptanceTester $I, \Page\Login $loginPage) {
             $loginPage->login('fazen7@mail.ru', '1234567');
             $I->amOnPage('/customer/account/index/');

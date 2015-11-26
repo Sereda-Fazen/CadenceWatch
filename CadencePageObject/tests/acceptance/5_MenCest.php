@@ -1,5 +1,5 @@
 <?php
-use \AcceptanceTester;
+use Step\Acceptance;
 
 class MenCest
 {
