@@ -1,10 +1,10 @@
 <?php
 namespace Page;
 
-class Men
+class Women
 {
     public static $URL = '/';
-    public static $men = 'li.first.level-top > a.level-top > span';
+    public static $women = '#nav > li:nth-of-type(2) > a.level-top > span';
 
 
     protected $tester;
@@ -13,11 +13,11 @@ class Men
         $this->tester = $I;
     }
 
-    public function men() {
+    public function women() {
         $I = $this->tester;
 
         $I->amOnPage(self::$URL);
-        $I->click(self::$men);
+        $I->click(self::$women);
     }
 
 }
