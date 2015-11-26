@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e8753f8-8406-4ec1-95a9-2a02e2c37e0e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/acceptance/10_RetroCest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/acceptance/11_FunCest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/acceptance/12_LastChanceCest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/acceptance/13_GiffCardCest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/acceptance/14_SaleCest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/acceptance/9_LeatherCest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Fun.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/GiffCard.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/LastChance.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Leather.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Retro.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Sale.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CadencePageObject/tests/_support/_generated/AcceptanceTesterActions.php" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/_generated/AcceptanceTesterActions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CadencePageObject/tests/_support/Step/Acceptance/LoginSteps.php" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Step/Acceptance/LoginSteps.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CadencePageObject/tests/acceptance.suite.yml" afterPath="$PROJECT_DIR$/CadencePageObject/tests/acceptance.suite.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php" afterPath="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Cadence.iws" />
@@ -33,87 +19,37 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="13_MyAccount_InformationCept.php" pinned="false" current-in-tab="true">
+              <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.611/13_MyAccount_InformationCept.php">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state vertical-scroll-proportion="0.6618465">
+                    <caret line="62" column="57" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="57" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="Cadence" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Retro.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Retro.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10_RetroCest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/10_RetroCest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11_FunCest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/11_FunCest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Fun.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Fun.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.5">
               <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LastChance.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/LastChance.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="12_LastChanceCest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/12_LastChanceCest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GiffCard.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/GiffCard.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.807693">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13_GiffCardCest.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/13_GiffCardCest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -129,11 +65,81 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="14_SaleCest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="14_SaleCest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/14_SaleCest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24028268">
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyAccount.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/MyAccount.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.230769">
+              <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3_MyAccountCest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/3_MyAccountCest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.269231">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="7_ClassicCest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/7_ClassicCest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8_ChronosCest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/8_ChronosCest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
               <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4_HomeCest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/4_HomeCest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33215547">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="5_MenCest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/5_MenCest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.5384617">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -152,13 +158,10 @@
       <list>
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/5_MenCest.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/6_WomenCest.php" />
-        <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/3_MyAccountCest.php" />
-        <option value="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/4_HomeCest.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/7_ClassicCest.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Cronoss.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Chonos.php" />
-        <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/8_ChronosCest.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/_support/AcceptanceTester.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/1_RegisterCest.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/2_LoginCest.php" />
@@ -177,6 +180,9 @@
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/13_GiffCardCest.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Sale.php" />
         <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/14_SaleCest.php" />
+        <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/8_ChronosCest.php" />
+        <option value="$PROJECT_DIR$/CadencePageObject/tests/acceptance/3_MyAccountCest.php" />
+        <option value="$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php" />
       </list>
     </option>
   </component>
@@ -420,14 +426,26 @@
       <option name="project" value="LOCAL" />
       <updated>1448551182438</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all pages">
+      <created>1448554922764</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1448554922764</updated>
+    </task>
+    <task id="LOCAL-00004" summary="all pagess">
+      <created>1448558095502</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448558095502</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.38219616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937366" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -455,7 +473,9 @@
     <MESSAGE value="test1" />
     <MESSAGE value="classic" />
     <MESSAGE value="chronos" />
-    <option name="LAST_COMMIT_MESSAGE" value="chronos" />
+    <MESSAGE value="all pages" />
+    <MESSAGE value="all pagess" />
+    <option name="LAST_COMMIT_MESSAGE" value="all pagess" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -486,14 +506,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/3_MyAccountCest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/2_LoginCest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="9.615385">
@@ -510,34 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.153846">
-          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/4_HomeCest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.730769">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Step/Acceptance/LoginSteps.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.0">
           <caret line="52" column="33" selection-start-line="52" selection-start-column="33" selection-end-line="52" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/5_MenCest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -590,14 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Fun.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/12_LastChanceCest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5">
@@ -640,8 +620,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/14_SaleCest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24028268">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Fun.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.5">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.611/13_MyAccount_InformationCept.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6618465">
+          <caret line="62" column="57" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/7_ClassicCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/5_MenCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.5384617">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/8_ChronosCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/MyAccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.230769">
+          <caret line="99" column="24" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/3_MyAccountCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.269231">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/acceptance/4_HomeCest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33215547">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding />
         </state>
       </provider>
