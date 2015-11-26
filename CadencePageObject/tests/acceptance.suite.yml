@@ -12,7 +12,7 @@ modules:
             #host: 'hub.browserstack.com'
             #port: 80
             browser: chrome
-            window_size: 1280x3000
+            window_size: 1280x680
             restart: false
             clear_cookies: false
 
