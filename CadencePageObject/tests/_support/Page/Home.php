@@ -13,7 +13,7 @@ class Home
     public static $myCheck = 'Check Gift Card';
     public static $myCart = 'My Cart';
     public static $checkout = 'Checkout';
-    public static $logIn = 'Log out';
+    public static $logIn = 'Log Out';
 
     /**
      * Search

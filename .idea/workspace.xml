@@ -129,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.33215547">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -438,7 +438,13 @@
       <option name="project" value="LOCAL" />
       <updated>1448558095502</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="all page">
+      <created>1448558913888</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1448558913888</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -475,7 +481,8 @@
     <MESSAGE value="chronos" />
     <MESSAGE value="all pages" />
     <MESSAGE value="all pagess" />
-    <option name="LAST_COMMIT_MESSAGE" value="all pagess" />
+    <MESSAGE value="all page" />
+    <option name="LAST_COMMIT_MESSAGE" value="all page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -693,7 +700,7 @@
     <entry file="file://$PROJECT_DIR$/CadencePageObject/tests/_support/Page/Home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33215547">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
           <folding />
         </state>
       </provider>
