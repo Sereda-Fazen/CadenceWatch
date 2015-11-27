@@ -14,6 +14,9 @@ class Home
     public static $myCart = 'My Cart';
     public static $checkout = 'Checkout';
     public static $logIn = 'ul.links > li.last';
+    public static $localisation = '#select-language';
+    public static $chooseLocal = '//*[@id="select-language"]/option[2]';
+    public static $chooseLocalEn = '//*[@id="select-language"]/option[1]';
 
     /**
      * Search
@@ -74,6 +77,10 @@ class Home
         $I->click(self::$myCart);
         $I->click(self::$checkout);
         $I->click(self::$logIn);
+        $I->click(self::$localisation);
+        $I->click(self::$chooseLocal);
+        $I->click(self::$localisation);
+        $I->click(self::$chooseLocalEn);
 
     }
     public function homePageSearch($search1) {

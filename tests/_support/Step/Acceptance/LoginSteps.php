@@ -79,6 +79,25 @@ class LoginSteps extends \AcceptanceTester
             }
         }
     }
+    public function inputBillingGuestData (){
+
+        $billing = '#billing\3A ';
+        $I = $this;
+        $I->fillField($billing. 'firstname', 'alex');
+        $I->fillField($billing. 'lastname', 'sereda');
+        $I->fillField($billing. 'email', 'sa@itsvit.org');
+        $I->fillField('input.input-text.required-entry.validate-length', 'Dostoevskogo street 22V');
+        $I->fillField($billing. 'city', 'Kharkov');
+        $I->fillField($billing.'postcode', '1rr354');
+        $I->fillField($billing.'postcode', '61007');
+        $I->click('//*[@id="billing:country_id"]/option[231]');
+        $I->fillField($billing.'region', 'Kharkov');
+        $I->fillField($billing.'telephone', '80934568798');
+        $I->click($billing.'use_for_shipping_yes');
+        $I->click('#billing-buttons-container > button.button > span > span');
+
+
+    }
 
 }
 

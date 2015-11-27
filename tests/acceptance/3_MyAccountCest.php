@@ -25,7 +25,6 @@ class MyAccountCest
     }
 
 
-
     function MyAccountAddress(AcceptanceTester $I, \Page\MyAccount $MyAccountPage) {
         $MyAccountPage->accountAddress('alex', 'sereda', '+39063636369', 'Dostoevskogo22v', 'Kharkov', '54423', 'Kharkov');
         $I->see('The address has been saved.', 'li.success-msg');
